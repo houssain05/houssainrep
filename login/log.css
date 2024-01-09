@@ -1,0 +1,43 @@
+.ser{
+    font-size: 40px;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    line-height: 5%;
+    padding: 30px;
+}
+.aze{
+    font-size: 50px;
+    background-color:chartreuse;
+    color: #c32424;
+    padding: 30px;
+    margin-bottom:0px ;
+}
+.fr1{
+    font-size: 40px;
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    line-height: 5%;
+    padding: 15px;
+}
+div{
+   font-size: 40px;
+   background-color: rgb(112, 247, 195);
+}
+select{
+    font-size: 25px;
+    color: antiquewhite;
+    background-color: #c32424;
+}
+.ser{
+    padding: 30px;
+}
+.end{
+    display: flex;
+   
+    justify-content: end;
+    
+}
