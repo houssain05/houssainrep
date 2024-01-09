@@ -45,7 +45,7 @@ strong{
     margin-left: 230px;
 }
 .pin img{
-    display: flex;
+    display: relativ;
     flex-direction: row-reverse;
     justify-content: space-between;
     height: 300px;
